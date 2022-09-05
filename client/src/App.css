@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+fieldset legend {
+  width: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
